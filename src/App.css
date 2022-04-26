@@ -1,0 +1,8 @@
+.wrapper{
+    display:flex;
+}
+
+.slidebar_position{
+    position: sticky;
+    top: 56px;
+}

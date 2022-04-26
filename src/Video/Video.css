@@ -1,0 +1,12 @@
+.video-side{
+    flex: 0.89;
+    margin-left: 10px;
+    padding: 20px 40px;
+    background: rgb(238, 235, 235);
+}
+
+.video_video{
+    display: flex;
+    flex-wrap:wrap;
+}
+
