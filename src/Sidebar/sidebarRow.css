@@ -23,3 +23,9 @@
 .sidebarRow .selected{
     background: lightgray;
 }
+
+@media screen and (max-width: 1500px) {
+    .sidebarRow_title{
+        display: none;
+    }
+}
